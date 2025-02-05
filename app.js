@@ -28,7 +28,6 @@ function actualizarLista() {
     }
 }
 
-
 function limpiar_entrada(){
     document.getElementById("amigo").value = "";
 }
